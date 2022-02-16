@@ -9,10 +9,10 @@ body {
     unicode-bidi: embed;
 }
 .box{
-    padding-bottom: 112px;
-    padding-top: 92px;}
+    padding-bottom: 113px;
+    padding-top: 93px;}
     .box-in{
-    height: 496px;
+    height: 495px;
     margin: 0 40px;
     width: auto;
 }
@@ -24,7 +24,7 @@ body {
         margin-left: 230px;
     }
 .left-box-img{
-    padding: 112px 0 0;
+    padding: 113px 0 0;
 }
 .fb-img{
 height: 106px;
